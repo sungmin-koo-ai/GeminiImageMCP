@@ -2,6 +2,10 @@
 
 Claude DesktopでGoogle の Gemini AIを使用して高品質な画像を生成・編集できる MCP サーバーです。
 
+<a href="https://glama.ai/mcp/servers/@sungmin-koo-ai/GeminiImageMCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@sungmin-koo-ai/GeminiImageMCP/badge" alt="Gemini Image Generator MCP server" />
+</a>
+
 ## 🚀 主な特徴
 
 - **テキストから画像生成**: Gemini 2.0 Flash を使用したテキスト→画像変換
